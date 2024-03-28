@@ -56,3 +56,33 @@
 // }
 
 
+// Задача 3: Напишите программу, которая принимает
+// на вход целое число из отрезка [10, 99] и показывает
+// наибольшую цифру числа.
+
+// 40 => 4
+// 96 => 9
+// 72 => 7
+
+
+// System.Console.Write("Введите целое число от 10 до 99: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+
+// if(number > 10 && number < 99)
+// {
+//     int leftDigit = number / 10;
+//     int rihgtDigit = number % 10;
+//     if (leftDigit > rihgtDigit)
+//     {
+//         System.Console.Write(leftDigit);
+//     } 
+//     else
+//     {
+//         System.Console.Write(rihgtDigit);
+//     }
+// }
+// else 
+// {
+//     System.Console.WriteLine("Вы ввели не правильное число! ");
+// }
+
