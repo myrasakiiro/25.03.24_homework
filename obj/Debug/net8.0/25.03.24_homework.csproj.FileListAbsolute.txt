@@ -1,0 +1,14 @@
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\bin\Debug\net8.0\25.03.24_homework.exe
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\bin\Debug\net8.0\25.03.24_homework.deps.json
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\bin\Debug\net8.0\25.03.24_homework.runtimeconfig.json
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\bin\Debug\net8.0\25.03.24_homework.dll
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\bin\Debug\net8.0\25.03.24_homework.pdb
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\obj\Debug\net8.0\25.03.24_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\obj\Debug\net8.0\25.03.24_homework.AssemblyInfoInputs.cache
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\obj\Debug\net8.0\25.03.24_homework.AssemblyInfo.cs
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\obj\Debug\net8.0\25.03.24_homework.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\obj\Debug\net8.0\25.03.24_homework.dll
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\obj\Debug\net8.0\refint\25.03.24_homework.dll
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\obj\Debug\net8.0\25.03.24_homework.pdb
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\obj\Debug\net8.0\25.03.24_homework.genruntimeconfig.cache
+C:\Users\SystemX\Desktop\GeekBrains\25.03.24_homework\obj\Debug\net8.0\ref\25.03.24_homework.dll
