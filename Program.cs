@@ -86,3 +86,42 @@
 //     System.Console.WriteLine("Вы ввели не правильное число! ");
 // }
 
+// Задача 4: Напишите программу, которая на вход
+// принимает натуральное число N, а на выходе
+// показывает его цифры через запятую в обратном порядке.
+
+// 568 => 8, 6, 5
+// 8 => 8
+// 9542 => 2, 4, 5, 9
+
+System.Console.Write("Введите натуральное число: ");
+int N = Convert.ToInt32(Console.ReadLine());
+if (N > 0)
+{
+    if (N < 10)
+    {
+        System.Console.Write(N);
+    }
+    else
+    {
+
+        while (N > 0)
+        {
+            int currentDigit = N % 10;
+            N /= 10; // N = N / 10;
+            if (N > 0)
+            {
+                System.Console.Write(currentDigit + ", ");
+            }
+            else
+            {
+                System.Console.Write(currentDigit);
+            }
+
+        }
+    }
+}
+else
+{
+    System.Console.Write("Вы ввели не натуральное число! ");
+}
